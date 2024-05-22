@@ -1,31 +1,36 @@
-## 👋 # 👋 Hello! Welcome to my Github profile!!
-## My name is Victor, i'm fullstack developer at Avanade!
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+Victor+Pessoa!;" />
+</h1>
+<h3>Desenvolvedor Full-stack </h3>
 
-🔭 I’m currently working on Avanade!
-🌱 I’m currently learning Java, NextJs and Golang
-📫 How to reach me: victor.vhalp@gmail.com
-😄 Pronouns: he/him
+![snake gif](https://github.com/PessoaVictor/PessoaVictor/blob/output/github-contribution-grid-snake.gif)
 
-# Ferramentas e Tecnologias
+<p> Formado em Ciência da Computação, e Desenvolvimento Full Stack.</p>
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<p>Meus projetos se encontram em meu site portfólio www.vhalp.com.br</p>
 
-## Estou aprendendo
+<p>Atualmente estou focando meus estudos em Nextjs e Golang</p>
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<p>Criatividade, facilidade em aprender e ensinar, trabalho em equipe e raciocínio lógico fazem parte do meu perfil.</p>
 
-## Contatos:
 
-<div>
+[![Site](https://img.shields.io/website?label=vhalp.dev&style=for-the-badge&url=https://www.vhalp.com.br/)](https://www.vhalp.com.br)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-p-2b54a917b/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vhalp/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/558199349375)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.vhalp@gmail.com)
 
-<a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+![PessoaVictor GitHub stats](https://github-readme-stats.vercel.app/api?username=PessoaVictor&show_icons=true&theme=dracula&count_private=true)
 
-<div>
-<a href="https://github.com/PessoaVictor">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PessoaVictor&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=PessoaVictor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+## Tecnologias que eu uso no meu dia
 
-![Snake animation](https://github.com/PessoaVictor/PessoaVictor/blob/output/github-contribution-grid-snake.svg)
+![PessoaVictor GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PessoaVictor&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)
+
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</div><br/>
