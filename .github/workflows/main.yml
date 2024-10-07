@@ -29,7 +29,7 @@ jobs:
           outputs: |     
             dist/github-contribution-grid-snake.gif
             dist/github-contribution-grid-snake.svg
-          grid_size: 8x8  # Ajuste o tamanho da grade conforme necessário
+          grid_size: 12x12  # Ajuste o tamanho da grade conforme necessário
           color_snake: "#00FF00"  # Ajuste a cor da cobra conforme necessário
           color_food: "#FF0000"  # Ajuste a cor da comida conforme necessário
         env:
