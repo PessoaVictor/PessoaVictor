@@ -6,10 +6,11 @@
 ![snake gif](https://github.com/PessoaVictor/PessoaVictor/blob/output/github-contribution-grid-snake.gif)
 
 <p> Formado em Ciência da Computação, e Desenvolvimento Full Stack.</p>
+<p> Cursando pós graduação em Desenvolvimento Mobile</p>
 
 <p>Meus projetos se encontram em meu site portfólio www.vhalp.com.br</p>
 
-<p>Atualmente estou focando meus estudos em Nextjs e Golang</p>
+<p>Atualmente estou focando meus estudos em Java, Angular e Kotlin</p>
 
 <p>Criatividade, facilidade em aprender e ensinar, trabalho em equipe e raciocínio lógico fazem parte do meu perfil.</p>
 
