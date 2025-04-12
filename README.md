@@ -15,7 +15,7 @@
 <p>Criatividade, facilidade em aprender e ensinar, trabalho em equipe e raciocínio lógico fazem parte do meu perfil.</p>
 
 
-[![Site](https://img.shields.io/website?label=VictorPessoa.com.br&style=for-the-badge&url=https://pessoavictor.github.io/Portfolio/index.html/)](https://pessoavictor.github.io/Portfolio/index.html)
+[![Site](https://img.shields.io/website?label=https://pessoavictor.github.io/Portfolio/index.html&style=for-the-badge&url=https://pessoavictor.github.io/Portfolio/index.html/)](https://pessoavictor.github.io/Portfolio/index.html)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-p-2b54a917b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vhalp/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/558199349375)
